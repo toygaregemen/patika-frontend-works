@@ -1,7 +1,6 @@
 # **Patika.dev - Frontend Web Development Ödev Ve Çalışmaları**
 
 ## *HTML :*
----
 
 1. **Ödev 1 :**
    
@@ -37,8 +36,5 @@
 
 ## *CSS :*
 
----
 
 ## *JAVASCRIPT :*
-
----
