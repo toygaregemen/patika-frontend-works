@@ -20,13 +20,17 @@
 
 3. **Ödev 3 :**
 
-    - **Ödev :**
+    - **Ödev :** Ödevde, görüntüsü verilen bir yemek tarifi sayfasının benzerinin yapılması istenmiştir. Bu ödevde kendi sayfamı görseldekine benzetmek amacıyla bir adet external CSS dosyası oluşturup bir çok CSS kodu kullandım.
+    
+    - **Verilen Görsel :** HTML/Odev3/istenilenCalisma.png
+    
+    - **Düzenlemiş Olduğum External CSS Dosyası :** HTML/Odev3/style.css 
 
-    - **Tamamlanmış Ödev** :
+    - **Tamamlanmış Ödev** : HTML/Odev3/index.html
 
 ---
 
-4. **Bölüm Sonu Çalışması :**
+1. **Bölüm Sonu Çalışması :**
 
     - **Çalışma :** Çalışmada, eğitimin en başından beri görmüş olduğumuz tüm HTML konularını tek bir çatı altında toplamış ve hepsini tekrar gözden geçirmiş olduk. Karşımıza çıkan problemleri çözmenin yöntemlerini öğrendik.
 
