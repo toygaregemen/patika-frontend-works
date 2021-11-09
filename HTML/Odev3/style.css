@@ -1,0 +1,81 @@
+body{
+    background-color: #E0C9A9;
+}
+.ana-baslik{
+    color: #5E2610;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.square-mark{
+    position: relative;
+    width: 6px;
+    height: 6px;
+    display: flex;
+    align-self: center;
+    background-color: black;
+    
+}
+.centered-dot{
+    width: 1.3px;
+    height: 1.3px;
+    background-color: rgb(255,255,255);
+    margin: 0;
+    position:absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.liste{
+    display: flex;
+    justify-self: center;
+    margin: auto;
+}
+ul{
+    padding: 0px;
+    margin: 0px;
+}
+li.liste1{
+    text-decoration: underline;
+    list-style-type: none;
+    display:inline-flex;
+    margin-left: 10px;
+    margin-right: auto;
+    text-align: center;
+    ;
+}
+.icerik{
+    font-weight: bold;
+    color: #9C3B0F;
+}
+.bolum{
+    margin-left: 33%;
+    margin-top: 20px;
+}
+.kirmizi{
+    display: inline;
+    background-color: #963102;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.liste2ul{
+    margin-top: 20px;
+    margin-left: 3%;
+}
+.liste2li{
+    margin-bottom: 5px;
+}
+.padzero{
+    padding: 0;
+}
+.footer{
+    letter-spacing: 2px;
+    color: #2C1504;
+}
+.sonbaslik{
+    margin-left: 60%;
+    font-weight:500;
+}
