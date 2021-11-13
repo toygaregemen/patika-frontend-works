@@ -46,7 +46,7 @@
    
    - **Verilen Görsel :** CSS/Odev1/istenilenCalisma.gif
    
-     -**Tamamlanmış Ödev :** CSS/Odev1/index.html 
+   - **Tamamlanmış Ödev :** CSS/Odev1/index.html 
 
 
 
