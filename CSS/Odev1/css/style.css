@@ -1,0 +1,75 @@
+/* --------------- Genel --------------- */
+body{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/* --------------- Header --------------- */
+.anabaslik{
+    font-weight: bold;
+    color: #bd1b55;
+    text-align: center;
+}
+
+/* --------------- Nav --------------- */
+.ml15{
+    margin-left: 15px;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    
+}
+.navlist{
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+.navlistli{
+    display: inline;
+}
+
+/*--------------- Anasayfa Main --------------- */
+.anasayfabaslik{
+    color: #722ff8;
+    text-align: center;
+}
+.anasayfap1{
+    text-align: center;
+}
+.anasayfaaltbaslik{
+    color: #bb921b;
+    text-align: center;
+}
+.listdiv{
+    display: flex;
+    justify-content: center;
+}
+.anasayfalistul{
+    list-style-position: inside;
+    padding: 0;
+    margin: 0;
+}
+
+/* --------------- Hakkımızda Main --------------- */
+.hakkimizdabaslik{
+    color: #722ff8;
+    text-align: center;
+}
+.hakkimizdaaltbaslik{
+    color: #bb921b;
+}
+
+/* --------------- Ürünlerimiz Main --------------- */
+.urunlerimizbaslik{
+    color: #722ff8;
+    text-align: center;
+}
+.urunlerlistediv{
+    display: flex;
+    justify-content: center;
+}
+.urunlerlisteol{
+    padding: 0;
+    padding-left: 150px;
+}
