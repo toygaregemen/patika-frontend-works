@@ -40,5 +40,14 @@
 
 ## *CSS :*
 
+1. **Ödev 1 :**
+   
+   - **Ödev :** Ödevde .gif uzantılı görüntüleri verilen siteyi HTML sayfaları ve external CSS dosyası kullanılarak yaratmamız istenmiştir.
+   
+   - **Verilen Görsel :** CSS/Odev1/istenilenCalisma.gif
+   
+     -**Tamamlanmış Ödev :** CSS/Odev1/index.html 
+
+
 
 ## *JAVASCRIPT :*
