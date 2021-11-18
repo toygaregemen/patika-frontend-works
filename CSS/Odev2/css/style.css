@@ -1,0 +1,81 @@
+/* --------------- General --------------- */
+.inline {
+    display: inline;
+}
+
+.m-0 {
+    margin: 0;
+}
+
+.p-0 {
+    padding: 0;
+}
+
+/* --------------- Header --------------- */
+.header {
+    text-align: center;
+}
+
+/* --------------- Search Area --------------- */
+.section-search {
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    background: #eeeeee;
+}
+.input-1 {
+    width: 25%;
+}
+
+/* --------------- Search Types --------------- */
+.section-types {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.art-1 {
+    background: #7ee5da;
+    text-align: center;
+    margin-top: 3px;
+    width: 38%;
+    padding: 19px;
+}
+
+.stypelist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.art-2 {
+    background: #70ccc2;
+    text-align: center;
+    margin-left: 3px;
+    width: 15%;
+    margin-top: 3px;
+    padding: 10px;
+}
+
+.helplist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.art-3 {
+    background: #62b3aa;
+    text-align: center;
+    margin-left: 3px;
+    width: 47%;
+    margin-top: 3px;
+    padding: 7px;
+}
+
+/* --------------- Footer --------------- */
+.footer {
+    text-align: center;
+    margin-top: 30px;
+}

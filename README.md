@@ -48,6 +48,16 @@
    
    - **Tamamlanmış Ödev :** CSS/Odev1/index.html 
 
+---
 
+2. **Ödev 2 :**
+
+   - **Ödev :** Ödevde .png uzantılı görüntüsü ile verilmiş olan eski Google anasayfasının klonunu yaratmamız istenmiştir. Bu çalışmada da external CSS dosyası kullandım.
+   
+   - **Verilen Görsel :** CSS/Odev2/istenilenCalisma.png
+   
+   - **Tamamlanmış Ödev :** CSS/Odev2/index.html 
+
+---
 
 ## *JAVASCRIPT :*
