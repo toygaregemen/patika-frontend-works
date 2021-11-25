@@ -68,4 +68,18 @@
    
    - **Tamamlanmış Ödev :** CSS/Odev3/index.html  
 
+---
+
+## *BOOTSTRAP :*
+
+1. **Ödev 1 :**
+   
+   - **Ödev :** "CSS/Odev1" yolunda bulunan çalışmamızın daha estetik hale getirilmiş halini BOOTSTRAP kullanarak düzenlememiz istenmiştir.
+   
+   - **Verilen Görsel :** BOOTSTRAP/Odev1/istenilenCalisma.gif
+   
+   - **Tamamlanmış Ödev :** BOOTSTRAP/Odev1/index.html
+
+---
+
 ## *JAVASCRIPT :*
