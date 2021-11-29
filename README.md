@@ -84,10 +84,24 @@
 
 2. **Ödev 2 :**
    
-   - **Ödev :** Taslağı hazırlanmış olan Instagram anasayfasının clone'unu alıp, verilen yönergeler doğrultusunda BOOTSTRAP kullanarak düzenlememiz istenmiştir.
+   - **Ödev :** Taslağı hazırlanmış olan Instagram anasayfasının clone'unu alıp, verilen yönergeler doğrultusunda BOOTSTRAP ve CSS kullanarak düzenlememiz istenmiştir.
    
    - **Yönergeler :** BOOTSTRAP/Odev2/yonergeler.md
    
-   - **Tamamlanmış Ödev :** BOOTSTRAP/Odev2/index.html  
+   - **Tamamlanmış Ödev :** BOOTSTRAP/Odev2/index.html
+
+---
+
+3. **Ödev 3 :**
+
+   - **Ödev :** Taslağı hazırlanmış olan Linkedin sayfasının clone'unu alıp, verilen yönergeler doğrultusunda BOOTSTRAP ve CSS kullanarak düzenlememiz istenmiştir.
+   
+   - **Yönergeler :** BOOTSTRAP/Odev3/yonergeler.md
+   
+   - **Verilen Görsel :** BOOTSTRAP/Odev3/linkedin.png
+   
+   - **Tamamlanmış Ödev :** BOOTSTRAP/Odev3/index.html
+
+---
 
 ## *JAVASCRIPT :*
