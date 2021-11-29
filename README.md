@@ -82,4 +82,12 @@
 
 ---
 
+2. **Ödev 2 :**
+   
+   - **Ödev :** Taslağı hazırlanmış olan Instagram anasayfasının clone'unu alıp, verilen yönergeler doğrultusunda BOOTSTRAP kullanarak düzenlememiz istenmiştir.
+   
+   - **Yönergeler :** BOOTSTRAP/Odev2/yonergeler.md
+   
+   - **Tamamlanmış Ödev :** BOOTSTRAP/Odev2/index.html  
+
 ## *JAVASCRIPT :*
