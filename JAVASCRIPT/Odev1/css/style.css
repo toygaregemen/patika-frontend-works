@@ -1,0 +1,9 @@
+body{
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    color: #F88908;
+    letter-spacing: 3px;
+}
+header{
+    padding-top: 75px;
+}

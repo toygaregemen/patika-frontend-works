@@ -105,3 +105,13 @@
 ---
 
 ## *JAVASCRIPT :*
+
+1. **Ödev 1 :**
+
+   - **Ödev :** Ödevde .gif uzantılı görüntüsü verilmiş olan bir web sayfasını JavaScript kullanarak klonlamamız istenmiştir.
+   
+   - **Verilen Görsel :** JAVASCRIPT/Odev1/istenilenCalisma.gif
+   
+   - **Tamamlanmış Ödev :** JAVASCRIPT/Odev1/index.html
+
+---
