@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <!-- Our CSS -->
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>To Do List</title>
+  </head>
+  <body>
+
+    <!-- TOAST FAIL - START -->
+    <div class="toast failToast position-fixed top-0 end-0" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header d-flex justify-content-between text-danger fw-bold">
+            HATA!
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+          Listeye Boş Ekleyemessiniz!
+        </div>
+     </div>
+     <!-- TOAST FAIL - END -->
+    
+    
+     <!-- TOAST SUCCESS - START -->
+    <div class="toast successToast position-fixed top-0 end-0" role="alert" aria-live="assertive" aria-atomic="true">
+        <div class="toast-header d-flex justify-content-between text-succcess fw-bold">
+            BAŞARILI!
+            <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+        </div>
+        <div class="toast-body">
+          Listeye Eklendi!
+        </div>
+     </div>
+     <!-- TOAST SUCCESS - END -->
+
+
+    <!-- HEADER - START -->
+        <header class="container">
+            <div class="row text-center d-flex flex-column p-4 headerBackground">
+                <div class="col"><h1><img src="img/kodluyoruz.PNG" alt="kodluyoruz.png"></h1></div>
+                <div class="col"><h3 class="header text-white">Yapılacaklar Listesi</h3></div>
+                <div class="col"><input class="border-0 p-3 inputArea" type="text" name="toDoInput" placeholder="Bugün ne yapacaksın?"><button type="submit" class="submitButton p-0">Ekle</button></div>
+            </div>
+        </header>
+    <!-- HEADER - END -->
+
+    <!-- MAIN - START -->
+        <main class="container">
+            <section class="row">
+                <ul class="list-group listUl p-0 d-flex">
+                    <!-- To do list Li elemets -->
+                  </ul>
+            </section>
+        </main>
+    <!-- MAIN - END -->
+
+    
+
+
+    
+    <!-- Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+
+    <script>
+        
+    </script>
+
+    <!-- Fontawesome -->
+    <script src="https://kit.fontawesome.com/8af05135ea.js" crossorigin="anonymous"></script>
+
+    <!-- Our JS -->
+    <script src="js/app.js"></script>
+  </body>
+</html>
