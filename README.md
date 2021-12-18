@@ -115,3 +115,13 @@
    - **Tamamlanmış Ödev :** JAVASCRIPT/Odev1/index.html
 
 ---
+
+2. **Ödev 2:**
+
+   - **Ödev :** Ödevde .gif uzantılı görüntüsü verilmiş olan bir "to do list" web aplikasyonunu HTML,CSS,BOOTSTRAP,JavaScript ve Local Storage kullanarak klonlamamız istenmiştir.
+   
+   - **Verilen Görsel :** JAVASCRIPT/Odev2/istenilenCalisma.gif
+   
+   - **Tamamlanmış Ödev :** JAVASCRIPT/Odev2/index.html
+
+---
