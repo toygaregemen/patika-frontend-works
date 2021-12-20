@@ -130,8 +130,8 @@
 
    - **Ödev :** Ödevde .gif uzantılı görüntüsü, index.html ve style.css dosyaları verilmiş olan bir web sayfasına JavaScript dosyası ekleyerek dinamik bir hale getirmemiz istenmiştir.
    
-   - **Verilen Görsel :** [JAVASCRIPT/Odev3/istenilenCalisma.gif]()
+   - **Verilen Görsel :** [JAVASCRIPT/Odev3/istenilenCalisma.gif](https://github.com/toygaregemen/patika-frontend-works/blob/main/JAVASCRIPT/Odev3/istenilenCalisma.gif)
    
-   - **Tamamlanmış Ödev :** [JAVASCRIPT/Odev3]() 
+   - **Tamamlanmış Ödev :** [JAVASCRIPT/Odev3](https://github.com/toygaregemen/patika-frontend-works/tree/main/JAVASCRIPT/Odev3) 
 
 ---
